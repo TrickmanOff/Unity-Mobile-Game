@@ -1,5 +1,5 @@
 # Unity-Mobile-Game
-The game made during the HSE's Mobile Development school which took place from 6 to 26 July 2020.
+The game created during the HSE's Mobile Development school which took place from 6 to 26 July 2020.
 
 Developed and designed by me and Kirill Pupkov (vk.com/pupkovkirill).
 
